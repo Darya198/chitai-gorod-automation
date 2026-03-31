@@ -3,3 +3,4 @@ selenium
 requests
 allure-pytest
 pytest-xdist
+webdriver-manager
