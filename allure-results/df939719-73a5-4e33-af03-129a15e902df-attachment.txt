@@ -1,2 +1,0 @@
-
-[API LOG]: Товар 3148033 успешно удален. fКод: {del_res.status_code}
